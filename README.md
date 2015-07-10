@@ -9,7 +9,7 @@ Just drag the two files into your project.
 ## Usage
 
 ```swift
-let loader = WebPageLoader(snapshotSize: yourImageView.bounds.size)
+let loader = WebPageLoader(imageViewSize: yourImageView.bounds.size)
 
 let request = ...
 
